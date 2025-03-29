@@ -28,7 +28,7 @@ export const Expierence = () => {
                 {
                     history.map((historyitem, id)=>{
                         return <li className={styles.historyItem} key={id}>
-                            <img src="assets/Skills/hcl1.png" alt={historyitem.organisation} />
+                            <img src="Skills/hcl1.png" alt={historyitem.organisation} />
                             <div className={styles.historyitemdtls}>
                                 <h3>{`${historyitem.role},${historyitem.organisation}`}</h3>
                                 <p>{`${historyitem.startDate}/${historyitem.endDate}`}</p>

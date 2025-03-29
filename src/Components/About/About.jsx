@@ -6,10 +6,10 @@ export const About = () => {
         <section className={styles.container} id="about">
             <h2 className={styles.title}>About Me</h2>
             <div className={styles.content}>
-                <img className={styles.aboutimg} src="assets/Hero/SittingWithLap.png" alt="SittingWithLap"/>
+                <img className={styles.aboutimg} src="Hero/SittingWithLap.png" alt="SittingWithLap"/>
             <ul className={styles.aboutitems}>
                 <li className={styles.aboutitem}>
-                    <img className={styles.aboutimageicon} src="assets/Hero/Mouse.png" alt="Cursor"/>
+                    <img className={styles.aboutimageicon} src="Hero/Mouse.png" alt="Cursor"/>
                     <div className={styles.aboutitemtxt}>
                         <h3>
                             Front-End Developer
@@ -21,7 +21,7 @@ export const About = () => {
                     
                 </li>
                 <li className={styles.aboutitem}>
-                    <img className={styles.aboutimageicon} src="assets/Hero/Desktop.png" alt="Backend"/>
+                    <img className={styles.aboutimageicon} src="Hero/Desktop.png" alt="Backend"/>
                     <div className={styles.aboutitemtxt}>
                         <h3>
                             Back-End Developer
@@ -33,7 +33,7 @@ export const About = () => {
                     
                 </li>
                 <li className={styles.aboutitem}>
-                    <img className={styles.aboutimageicon3} src="assets/Hero/UI.png" alt="UI/UX"/>
+                    <img className={styles.aboutimageicon3} src="Hero/UI.png" alt="UI/UX"/>
                     <div className={styles.aboutitemtxt}> 
                         <h3>
                             UI/UX Designer
