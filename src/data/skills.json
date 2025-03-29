@@ -1,29 +1,29 @@
 [
     {
         "title": "HTML",
-        "imageSrc": "assets/Skills/html.png"
+        "imageSrc": "Skills/html.png"
 
     },
     {
         "title": "CSS",
-        "imageSrc": "assets/Skills/css.png"
+        "imageSrc": "Skills/css.png"
 
     },
     {
         "title": "JavaScript",
-        "imageSrc": "assets/Skills/JS.png"
+        "imageSrc": "Skills/JS.png"
     },
     {
         "title": "React.Js",
-        "imageSrc": "assets/Skills/React.png"
+        "imageSrc": "Skills/React.png"
     },
     {
         "title": "Java",
-        "imageSrc": "assets/Skills/javalogo.png"
+        "imageSrc": "Skills/javalogo.png"
     },
     {
         "title": "MySQL",
-        "imageSrc": "assets/Skills/sql.png"
+        "imageSrc": "Skills/sql.png"
     }
     
 ]
