@@ -9,7 +9,7 @@ export const Hero = () => {
                 <p className={styles.desc}>I am full stack developer with 2.5+ years of expirence in Java and React.Js</p>
                 <a className={styles.cntctdtls} href="mailto:banuprabha6464@gmail.com">Contact Me</a>
             </div>
-            <img src="public/Hero1.png" alt="My Image"className={styles.heroimg}/>
+            <img src="./public/Hero1.png" alt="My Image"className={styles.heroimg}/>
                 <div className={styles.topBlur}/>
                 <div className={styles.bottomBlur}/>
         </section>
