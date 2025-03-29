@@ -1,0 +1,40 @@
+[
+    {
+        "title": "Project 1",
+        "imageSrc": "",
+        "description": "This is a description of Project 1. It includes details about the project, its purpose, and its features.",
+        "skills": [
+            "JavaScript",
+            "React",
+            "Node.js"
+        ],
+        "demo": "",
+        "source": ""
+    },
+
+    {
+    "title": "Project 2",
+    "imageSrc": "",
+    "description": "This is a description of Project 1. It includes details about the project, its purpose, and its features.",
+    "skills": [
+        "JavaScript",
+        "React",
+        "Node.js"
+    ],
+    "demo": "",
+    "source": ""
+},
+
+{
+    "title": "Project 2",
+    "imageSrc": "",
+    "description": "This is a description of Project 1. It includes details about the project, its purpose, and its features.",
+    "skills": [
+        "JavaScript",
+        "React",
+        "Node.js"
+    ],
+    "demo": "",
+    "source": ""
+}
+]
