@@ -8,7 +8,7 @@ export const Navbar = () => {
        <nav className={styles.navbar}>
         <a className={styles.title} href="/">Welcome to My Portfolio!</a>
         <div className={styles.menu}>
-            <img className={styles.menubtn} alt="menu-button" src={menuOpen ? "assets/Nav/close.png" : "assets/Nav/menu.png"} onClick={() => setMenuOpen(!menuOpen)}/>
+            <img className={styles.menubtn} alt="menu-button" src={menuOpen ? "../assets/Nav/close.png" : "../assets/Nav/menu.png"} onClick={() => setMenuOpen(!menuOpen)}/>
             <ul className={`${styles.menuitems} ${menuOpen && styles.menuOpen}`} onClick={() => setMenuOpen(false)}>
                 <li><a href="#about">About</a></li>
                 <li><a href="#expierence">Expierence</a></li>
